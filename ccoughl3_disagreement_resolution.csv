@@ -1,1 +1,15 @@
-
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
+asgr_profound;lwang111;ccoughl3;WhyRecovered;Maintainer's own research needs: new segim_orig photometry modes, 'Will need this version for the Workshop', and a WAVES survey corner case fix.;to work on some bug fixes and work on some more feature development;No;The pre 10 commits were toaling about small updates and bug fixes post it was fixing a few thing.;Maintainer's own research needs: new segim_orig photometry modes, 'Will need this version for the Workshop', and a WAVES survey corner case fix.;AuthorKept;yes;N/A
+asgr_profound;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;it shot up at the end;irregular;ValidatorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;WhyRecovered;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;to update matar, merge things, and update Matar;No;The ten post commits messages;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;AuthorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;your graph;irregular;ValidatorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;RecentThemes;Feature development:Bug fixes;Other (pull request) and bug fixes;No;your recent commits csv;Feature development:Bug fixes;AuthorKept;yes;N/A
+ldbc_sigmod2014-pc;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;The graph and dates;Inactive;validatorkept;Yes;N/A
+nanocomp_meep;lwang111;ccoughl3;WhyRecovered;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;to fix / remove some of the documationa and things implemented;No;the 10 post commit messages;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;ActivityPattern;irregular;declining;No;the graph;irregular;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;Currentstatus;Active;InActive;No;The graph and the dates;InActive;validatorKept;Yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;WhyRecovered;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;Update syntax and other things implemented. Update description.;No;The 10 post commit messages;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;AuthorKept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;the graph and dates;Inactive;ValidatorKept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;RecentThemes;Other:Release;documentation updates;No;your recent commits csv;Other:Release;AuthorKept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;ActivityPattern;U-shaped;irregular;No;the graph;irregular;ValidatorKept;yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;ActivityPattern;cyclical;irregular;No;the graph;irregular;ValidatorKept;Yes;N/A
