@@ -34,18 +34,18 @@ opticspy_lightpipes;lwang111;ccoughl3;WhyRecovered;Moved to the opticspy repo wi
 opticspy_lightpipes;lwang111;ccoughl3;ActivityPattern;irregular;declining;No;the graph;irregular;AuthorKept;yes;N/A
 opticspy_lightpipes;lwang111;ccoughl3;Currentstatus;Active;InActive;No;The graph and the dates;InActive;validatorKept;Yes;N/A
 opticspy_lightpipes;lwang111;ccoughl3;RecentThemes;Documentation updates: Bug fixes;Documentation updates: Bug fixes;Yes;your recent commits csv;Documentation updates: Bug fixes;AuthorKept;yes;N/A
-ph-rast_bmgarch;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
-ph-rast_bmgarch;lwang111;ccoughl3;WhyRecovered;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;Update syntax and other things implemented. Update description.;No;The 10 post commit messages;;;;
-ph-rast_bmgarch;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
-ph-rast_bmgarch;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;the graph and dates;;;;
-ph-rast_bmgarch;lwang111;ccoughl3;RecentThemes;Other:Release;documentation updates;No;your recent commits csv;;;;
-wiris_moodle-filter_wiris;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commit after gap;;;;
-wiris_moodle-filter_wiris;lwang111;ccoughl3;WhyRecovered;Normal work resumed after a 2-month pause: Moodle 4.1 tests and the 8.0.0 release.;To fix moodle 4.1;Yes;The 10 post commit mesages;;;;
-wiris_moodle-filter_wiris;lwang111;ccoughl3;ActivityPattern;U-shaped;irregular;No;the graph;;;;
-wiris_moodle-filter_wiris;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;The graph and dates;;;;
-wiris_moodle-filter_wiris;lwang111;ccoughl3;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;your recent commits csv;;;;
-wurmlab_sequenceserver;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
-wurmlab_sequenceserver;lwang111;ccoughl3;WhyRecovered;Newcomer PR #828 fixed issue #826, then the maintainer merged the backlog (#823, #828, #829, #830) on 2025-06-09.;fix top-align identifiers and commple the assets;yes;the 10 post commit messages;;;;
-wurmlab_sequenceserver;lwang111;ccoughl3;ActivityPattern;cyclical;irregular;No;the graph;;;;
-wurmlab_sequenceserver;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and dates;;;;
-wurmlab_sequenceserver;lwang111;ccoughl3;RecentThemes;Security patches:Bug fixes;Security patches:Bug fixes;Yes;your recent commits csv;;;;
+ph-rast_bmgarch;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;yes;Authorkept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;WhyRecovered;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;Update syntax and other things implemented. Update description.;No;The 10 post commit messages;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;AuthorKept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;declining;AuthorKept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;the graph and dates;Inactive;ValidatorKept;yes;N/A
+ph-rast_bmgarch;lwang111;ccoughl3;RecentThemes;Other:Release;documentation updates;No;your recent commits csv;Other:Release;AuthorKept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commit after gap;yes;Authorkept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;WhyRecovered;Normal work resumed after a 2-month pause: Moodle 4.1 tests and the 8.0.0 release.;To fix moodle 4.1;Yes;The 10 post commit mesages;Normal work resumed after a 2-month pause: Moodle 4.1 tests and the 8.0.0 release.;AuthorKept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;ActivityPattern;U-shaped;irregular;No;the graph;irregular;ValidatorKept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;The graph and dates;Active;Authorkept;yes;N/A
+wiris_moodle-filter_wiris;lwang111;ccoughl3;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;your recent commits csv;Other:Bug fixes;AuthorKept;yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;yes;AuthorKept;yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;WhyRecovered;Newcomer PR #828 fixed issue #826, then the maintainer merged the backlog (#823, #828, #829, #830) on 2025-06-09.;fix top-align identifiers and commple the assets;yes;the 10 post commit messages; Newcomer PR #828 fixed issue #826, then the maintainer merged the backlog (#823, #828, #829, #830) on 2025-06-09.;AuthorKept;yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;ActivityPattern;cyclical;irregular;No;the graph;irregular;ValidatorKept;Yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and dates;Active;Authorkept;Yes;N/A
+wurmlab_sequenceserver;lwang111;ccoughl3;RecentThemes;Security patches:Bug fixes;Security patches:Bug fixes;Yes;your recent commits csv;Security patches:Bug fixes;AuthorKept;Yes;N/A
