@@ -1,9 +1,9 @@
 WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
-asgr_profound;lwang111;ccoughl3;HasRecovered;yes;yes;yes;There are a lot of commits after the gap;;;;
-asgr_profound;lwang111;ccoughl3;WhyRecovered;Maintainer's own research needs: new segim_orig photometry modes, 'Will need this version for the Workshop', and a WAVES survey corner case fix.;to work on some bug fixes and work on some more feature development;No;The pre 10 commits were toaling about small updates and bug fixes post it was fixing a few thing.;;;;
-asgr_profound;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;it shot up at the end;;;;
-asgr_profound;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the commits on those recent dates;;;;
-asgr_profound;lwang111;ccoughl3;RecentThemes;Documentation updates:Dependency updates;Documentation updates:Dependency updates;Yes;your recent commits csv;;;;
+asgr_profound;lwang111;ccoughl3;HasRecovered;yes;yes;yes;There are a lot of commits after the gap;yes;AuthorKept;yes;N/A
+asgr_profound;lwang111;ccoughl3;WhyRecovered;Maintainer's own research needs: new segim_orig photometry modes, 'Will need this version for the Workshop', and a WAVES survey corner case fix.;to work on some bug fixes and work on some more feature development;No;The pre 10 commits were toaling about small updates and bug fixes post it was fixing a few thing.;Maintainer's own research needs: new segim_orig photometry modes, 'Will need this version for the Workshop', and a WAVES survey corner case fix.;AuthorKept;yes;N/A
+asgr_profound;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;it shot up at the end;irregular;ValidatorKept;yes;N/A
+asgr_profound;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the commits on those recent dates;Active;AuthorKept;yes;N/A
+asgr_profound;lwang111;ccoughl3;RecentThemes;Documentation updates:Dependency updates;Documentation updates:Dependency updates;Yes;your recent commits csv;Documentation updates:Dependency updates;AuthorKept;yes;N/A
 homalg-project_toricvarieties_project;lwang111;ccoughl3;HasRecovered;No;No;Yes;there is not many commits after gap;;;;
 homalg-project_toricvarieties_project;lwang111;ccoughl3;WhyRecovered;N/A. The 7 post-gap commits only wind it down: a GAP compatibility fix by Max Horn led to the decision to withdraw it from GAP and update the README.;update README and avoid using somethings;Yes;The commit messages that are on the 7 post commits;;;;
 homalg-project_toricvarieties_project;lwang111;ccoughl3;ActivityPattern;irregular;irregular;Yes;Your graph;;;;
