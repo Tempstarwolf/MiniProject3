@@ -19,11 +19,11 @@ ldbc_sigmod2014-pc;lwang111;ccoughl3;WhyRecovered;N/A. Only one post-gap commit 
 ldbc_sigmod2014-pc;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;declining;AuthorKept;yes;N/A
 ldbc_sigmod2014-pc;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;The graph and dates;Inactive;validatorkept;Yes;N/A
 ldbc_sigmod2014-pc;lwang111;ccoughl3;RecentThemes;Other:Documentation updates;Other:Documentation updates;Yes;your recent commits csv;Other:Documentation updates;AuthorKept;yes;N/A
-libatoms_quip;lwang111;ccoughl3;HasRecovered;Yes;Yes;yes;there is lots of commits after gap;;;;
-libatoms_quip;lwang111;ccoughl3;WhyRecovered;Build modernization to fix broken installs: F95 to F90 rename (Apr 2025), then meson build, NumPy 2.x support, and fixed quippy wheels.;remove, change, and rename extensions;Yes;The 10 post commit messages;;;;
-libatoms_quip;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
-libatoms_quip;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the dates;;;;
-libatoms_quip;lwang111;ccoughl3;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;your recent commits csv;;;;
+libatoms_quip;lwang111;ccoughl3;HasRecovered;Yes;Yes;yes;there is lots of commits after gap;Yes;AuthorKept;yes;N/A
+libatoms_quip;lwang111;ccoughl3;WhyRecovered;Build modernization to fix broken installs: F95 to F90 rename (Apr 2025), then meson build, NumPy 2.x support, and fixed quippy wheels.;remove, change, and rename extensions;Yes;The 10 post commit messages;Build modernization to fix broken installs: F95 to F90 rename (Apr 2025), then meson build, NumPy 2.x support, and fixed quippy wheels.;AuhtorKept;Yes;N/A
+libatoms_quip;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;declining;AuthorKept;yes;N/A
+libatoms_quip;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the dates;Active;AuthorKept;Yes;N/A
+libatoms_quip;lwang111;ccoughl3;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;your recent commits csv;Bug fixes:Feature development;AuthorKept;yes;N/A
 nanocomp_meep;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
 nanocomp_meep;lwang111;ccoughl3;WhyRecovered;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;to fix / remove some of the documationa and things implemented;No;the 10 post commit messages;;;;
 nanocomp_meep;lwang111;ccoughl3;ActivityPattern;U-shaped;U-shaped;Yes;The graph;;;;
