@@ -9,11 +9,11 @@ homalg-project_toricvarieties_project;lwang111;ccoughl3;WhyRecovered;N/A. The 7 
 homalg-project_toricvarieties_project;lwang111;ccoughl3;ActivityPattern;irregular;irregular;Yes;Your graph;irregular;Authorkept;yes;N/A
 homalg-project_toricvarieties_project;lwang111;ccoughl3;Currentstatus;InActive;InActive;Yes;your graph / dates;InActive;AuthorKept;yes;N/A
 homalg-project_toricvarieties_project;lwang111;ccoughl3;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Your recent commits csv;Documentation updates:Bug fixes;AuthorKept;Yes;N/A
-lanl_elements;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;there is lots of commits after gap;;;;
-lanl_elements;lwang111;ccoughl3;WhyRecovered;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;to update matar, merge things, and update Matar;No;The ten post commits messages;;;;
-lanl_elements;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;your graph;;;;
-lanl_elements;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph / dates;;;;
-lanl_elements;lwang111;ccoughl3;RecentThemes;Feature development:Bug fixes;Other (pull request) and bug fixes;No;your recent commits csv;;;;
+lanl_elements;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;there is lots of commits after gap;yes;AuthorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;WhyRecovered;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;to update matar, merge things, and update Matar;No;The ten post commits messages;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;AuthorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;your graph;irregular;ValidatorKept;yes;N/A
+lanl_elements;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph / dates;Active;AuthorKept;Yes;N/A
+lanl_elements;lwang111;ccoughl3;RecentThemes;Feature development:Bug fixes;Other (pull request) and bug fixes;No;your recent commits csv;Feature development:Bug fixes;AuthorKept;yes;N/A
 ldbc_sigmod2014-pc;lwang111;ccoughl3;HasRecovered;No;No;Yes;There is only one commit after gap;;;;
 ldbc_sigmod2014-pc;lwang111;ccoughl3;WhyRecovered;N/A. Only one post-gap commit ('Fix missing import', May 2025), a small cleanup.;Did not really return. Only to fix one thing;Yes;the one commit message after the gap;;;;
 ldbc_sigmod2014-pc;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
