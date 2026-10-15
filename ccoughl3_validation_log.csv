@@ -24,16 +24,16 @@ libatoms_quip;lwang111;ccoughl3;WhyRecovered;Build modernization to fix broken i
 libatoms_quip;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;declining;AuthorKept;yes;N/A
 libatoms_quip;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the dates;Active;AuthorKept;Yes;N/A
 libatoms_quip;lwang111;ccoughl3;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;your recent commits csv;Bug fixes:Feature development;AuthorKept;yes;N/A
-nanocomp_meep;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
-nanocomp_meep;lwang111;ccoughl3;WhyRecovered;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;to fix / remove some of the documationa and things implemented;No;the 10 post commit messages;;;;
-nanocomp_meep;lwang111;ccoughl3;ActivityPattern;U-shaped;U-shaped;Yes;The graph;;;;
-nanocomp_meep;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;The graph and dates;;;;
-nanocomp_meep;lwang111;ccoughl3;RecentThemes;Other:Feature development;Other:Feature development;Yes;your recent commits csv;;;;
-opticspy_lightpipes;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
-opticspy_lightpipes;lwang111;ccoughl3;WhyRecovered;Moved to the opticspy repo with a new partner (issues 'Init repository', 'Invite more members', 'build linux wheels', Jan 2017) and FFTW3-accelerated builds.;update readme and get fftw3 working.;Yes;the 10 post commit messages;;;;
-opticspy_lightpipes;lwang111;ccoughl3;ActivityPattern;irregular;declining;No;the graph;;;;
-opticspy_lightpipes;lwang111;ccoughl3;Currentstatus;Active;InActive;No;The graph and the dates;;;;
-opticspy_lightpipes;lwang111;ccoughl3;RecentThemes;Documentation updates: Bug fixes;Documentation updates: Bug fixes;Yes;your recent commits csv;;;;
+nanocomp_meep;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;yes;AuthorKept;yes;N/A
+nanocomp_meep;lwang111;ccoughl3;WhyRecovered;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;to fix / remove some of the documationa and things implemented;No;the 10 post commit messages;Moved to git/GitHub ('git conversion', 'add mailmap file', Mar 2014); outside users opened issues #1-#7 within weeks, creating demand.;AuthorKept;yes;N/A
+nanocomp_meep;lwang111;ccoughl3;ActivityPattern;U-shaped;U-shaped;Yes;The graph;U-shaped;Authorkept;yes;N/A
+nanocomp_meep;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;The graph and dates;Active;AuthorKept;Yes;N/A
+nanocomp_meep;lwang111;ccoughl3;RecentThemes;Other:Feature development;Other:Feature development;Yes;your recent commits csv;Other:Feature development;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;yes;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;WhyRecovered;Moved to the opticspy repo with a new partner (issues 'Init repository', 'Invite more members', 'build linux wheels', Jan 2017) and FFTW3-accelerated builds.;update readme and get fftw3 working.;Yes;the 10 post commit messages;Moved to the opticspy repo with a new partner (issues 'Init repository', 'Invite more members', 'build linux wheels', Jan 2017) and FFTW3-accelerated builds.;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;ActivityPattern;irregular;declining;No;the graph;irregular;AuthorKept;yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;Currentstatus;Active;InActive;No;The graph and the dates;InActive;validatorKept;Yes;N/A
+opticspy_lightpipes;lwang111;ccoughl3;RecentThemes;Documentation updates: Bug fixes;Documentation updates: Bug fixes;Yes;your recent commits csv;Documentation updates: Bug fixes;AuthorKept;yes;N/A
 ph-rast_bmgarch;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;There is a lot of commits after gap;;;;
 ph-rast_bmgarch;lwang111;ccoughl3;WhyRecovered;External PR #20 'Update deprecated syntax for future rstan compatibility' (Sep 2023) forced an update, followed by CMD check and CI fixes.;Update syntax and other things implemented. Update description.;No;The 10 post commit messages;;;;
 ph-rast_bmgarch;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
