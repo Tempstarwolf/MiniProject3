@@ -14,11 +14,11 @@ lanl_elements;lwang111;ccoughl3;WhyRecovered;MATAR/Kokkos update ('updated matar
 lanl_elements;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;your graph;irregular;ValidatorKept;yes;N/A
 lanl_elements;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph / dates;Active;AuthorKept;Yes;N/A
 lanl_elements;lwang111;ccoughl3;RecentThemes;Feature development:Bug fixes;Other (pull request) and bug fixes;No;your recent commits csv;Feature development:Bug fixes;AuthorKept;yes;N/A
-ldbc_sigmod2014-pc;lwang111;ccoughl3;HasRecovered;No;No;Yes;There is only one commit after gap;;;;
-ldbc_sigmod2014-pc;lwang111;ccoughl3;WhyRecovered;N/A. Only one post-gap commit ('Fix missing import', May 2025), a small cleanup.;Did not really return. Only to fix one thing;Yes;the one commit message after the gap;;;;
-ldbc_sigmod2014-pc;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
-ldbc_sigmod2014-pc;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;The graph and dates;;;;
-ldbc_sigmod2014-pc;lwang111;ccoughl3;RecentThemes;Other:Documentation updates;Other:Documentation updates;Yes;your recent commits csv;;;;
+ldbc_sigmod2014-pc;lwang111;ccoughl3;HasRecovered;No;No;Yes;There is only one commit after gap;No;AuthorKept;Yes;N/A
+ldbc_sigmod2014-pc;lwang111;ccoughl3;WhyRecovered;N/A. Only one post-gap commit ('Fix missing import', May 2025), a small cleanup.;Did not really return. Only to fix one thing;Yes;the one commit message after the gap;N/A. Only one post-gap commit ('Fix missing import', May 2025), a small cleanup.;AuthorKept;yes;N/A
+ldbc_sigmod2014-pc;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;declining;AuthorKept;yes;N/A
+ldbc_sigmod2014-pc;lwang111;ccoughl3;Currentstatus;Active;Inactive;No;The graph and dates;Inactive;validatorkept;Yes;N/A
+ldbc_sigmod2014-pc;lwang111;ccoughl3;RecentThemes;Other:Documentation updates;Other:Documentation updates;Yes;your recent commits csv;Other:Documentation updates;AuthorKept;yes;N/A
 libatoms_quip;lwang111;ccoughl3;HasRecovered;Yes;Yes;yes;there is lots of commits after gap;;;;
 libatoms_quip;lwang111;ccoughl3;WhyRecovered;Build modernization to fix broken installs: F95 to F90 rename (Apr 2025), then meson build, NumPy 2.x support, and fixed quippy wheels.;remove, change, and rename extensions;Yes;The 10 post commit messages;;;;
 libatoms_quip;lwang111;ccoughl3;ActivityPattern;declining;declining;Yes;the graph;;;;
