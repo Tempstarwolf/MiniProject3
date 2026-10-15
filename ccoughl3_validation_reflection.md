@@ -1,1 +1,4 @@
-
+# Validation Reflection - ccoughl3
+#### When doing evaluating my partners 10 project we agreed on most things. I agreed completely with him on his HasRevovered results. His WhyRecovered and RecentThemes sections I agreed completely after he described why he put the answers he did. The ActivityPattern and CurrentStatus we were able to come to an agreement on the things that we did not agree on. 
+#### Throughout the ten projects of mine and my partners the trend is that most project start of in a productive way and then tend to decline after a certain point in time. There is maybe 1 or 2 that is continuously being updated out of the ten projects. There was a trend that after feature development there would be a bug fixes, documentation updates, or other activities.
+#### Overall, for standard project after a long gap there were almost always bug fixes. This suggests that people updated the project to fixes bugs in the code. this makes sense because if the code works well then there would be no need to update it unless you wanted to implement new features. 
