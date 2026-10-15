@@ -4,11 +4,11 @@ asgr_profound;lwang111;ccoughl3;WhyRecovered;Maintainer's own research needs: ne
 asgr_profound;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;it shot up at the end;irregular;ValidatorKept;yes;N/A
 asgr_profound;lwang111;ccoughl3;Currentstatus;Active;Active;Yes;the graph and the commits on those recent dates;Active;AuthorKept;yes;N/A
 asgr_profound;lwang111;ccoughl3;RecentThemes;Documentation updates:Dependency updates;Documentation updates:Dependency updates;Yes;your recent commits csv;Documentation updates:Dependency updates;AuthorKept;yes;N/A
-homalg-project_toricvarieties_project;lwang111;ccoughl3;HasRecovered;No;No;Yes;there is not many commits after gap;;;;
-homalg-project_toricvarieties_project;lwang111;ccoughl3;WhyRecovered;N/A. The 7 post-gap commits only wind it down: a GAP compatibility fix by Max Horn led to the decision to withdraw it from GAP and update the README.;update README and avoid using somethings;Yes;The commit messages that are on the 7 post commits;;;;
-homalg-project_toricvarieties_project;lwang111;ccoughl3;ActivityPattern;irregular;irregular;Yes;Your graph;;;;
-homalg-project_toricvarieties_project;lwang111;ccoughl3;Currentstatus;InActive;InActive;Yes;your graph / dates;;;;
-homalg-project_toricvarieties_project;lwang111;ccoughl3;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Your recent commits csv;;;;
+homalg-project_toricvarieties_project;lwang111;ccoughl3;HasRecovered;No;No;Yes;there is not many commits after gap;No;AuthorKept;yes;N/A
+homalg-project_toricvarieties_project;lwang111;ccoughl3;WhyRecovered;N/A. The 7 post-gap commits only wind it down: a GAP compatibility fix by Max Horn led to the decision to withdraw it from GAP and update the README.;update README and avoid using somethings;Yes;The commit messages that are on the 7 post commits;N/A. The 7 post-gap commits only wind it down: a GAP compatibility fix by Max Horn led to the decision to withdraw it from GAP and update the README.;AuthorKept;yes;N/A
+homalg-project_toricvarieties_project;lwang111;ccoughl3;ActivityPattern;irregular;irregular;Yes;Your graph;irregular;Authorkept;yes;N/A
+homalg-project_toricvarieties_project;lwang111;ccoughl3;Currentstatus;InActive;InActive;Yes;your graph / dates;InActive;AuthorKept;yes;N/A
+homalg-project_toricvarieties_project;lwang111;ccoughl3;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Your recent commits csv;Documentation updates:Bug fixes;AuthorKept;Yes;N/A
 lanl_elements;lwang111;ccoughl3;HasRecovered;Yes;Yes;Yes;there is lots of commits after gap;;;;
 lanl_elements;lwang111;ccoughl3;WhyRecovered;MATAR/Kokkos update ('updated matar version (for updated Kokkos)'), then a v2 refactor (#39, Feb 2026) and boundary surface sets 'to be used in fierro'.;to update matar, merge things, and update Matar;No;The ten post commits messages;;;;
 lanl_elements;lwang111;ccoughl3;ActivityPattern;declining;irregular;No;your graph;;;;
